@@ -1,4 +1,4 @@
-# JeRevise - Plateforme de révision pour les collèges
+![JeRevise - Plateforme de révision pour les collèges](https://raw.githubusercontent.com/JeRevise/JeRevise/refs/heads/main/svgviewer-png-output.png)
 
 Bienvenue sur le dépôt officiel du projet **JeRevise**, une plateforme open source destinée à améliorer la révision des élèves du collège grâce à des outils intelligents pour les professeurs et les élèves.
 
