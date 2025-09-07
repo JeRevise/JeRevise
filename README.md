@@ -55,7 +55,7 @@ Chaque établissement peut installer sa propre instance de JeRevise sur ses serv
 4. Cloner le dépôt Front et connecter les routes API du Back.  
 5. Lancer le Front et accéder à la plateforme via l’URL locale ou publique.  
 
-> Pour plus de détails, consulter le dépôt [Docs](./Docs).
+> Pour plus de détails, consulter le dépôt [Docs](https://github.com/JeRevise/Docs).
 
 ---
 
@@ -76,7 +76,7 @@ JeRevise est **open source** et nous accueillons toutes les contributions :
 - Optimiser le front-end ou l’UX.
 - Corriger des bugs et améliorer la documentation.
 
-Avant de contribuer, merci de lire le guide de contribution disponible dans le dépôt [Docs](./Docs).
+Avant de contribuer, merci de lire le guide de contribution disponible dans le dépôt [Docs](https://github.com/JeRevise/Docs).
 
 ---
 
